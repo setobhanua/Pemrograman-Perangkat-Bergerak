@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Information</string>
+    <string name="about_me">About Me</string>
+
+    <string name="hmj_name">PRESIDEN INDONESIA</string>
+    <string name="description">Deskripsi</string>
+
+
+    <string-array name="data_name">
+        <item>Dr. Ir. H. Soekarno</item>
+        <item>H. M. Soeharto</item>
+        <item>Prof. Dr. Ing. H. Bacharuddin Jusuf Habibie</item>
+        <item>Dr. K. H. Abdurrahman Wahid</item>
+        <item>Hj. Dyah Permata Megawati Setyawati Soekarnoputri</item>
+        <item>Prof. Dr. H. Susilo Bambang Yudhoyono, M.A., GCB., AC.</item>
+        <item>Ir. H. Joko Widodo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Masa Jabatan = 1945 - 1966</item>
+        <item>Masa Jabatan = 1966 - 1998</item>
+        <item>Masa Jabatan = 1998 - 1999</item>
+        <item>Masa Jabatan = 1999 - 2001</item>
+        <item>Masa Jabatan = 2001 - 2004</item>
+        <item>Masa Jabatan = 2004 - 2014</item>
+        <item>Masa Jabatan = 2014 - 2024</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/bJ48gvLX/soekarno.jpg</item>
+        <item>https://i.postimg.cc/GmXWz2hM/soeharto.jpg</item>
+        <item>https://i.postimg.cc/Jhg9V2XZ/habibie.jpg</item>
+        <item>https://i.postimg.cc/Pxw0tQbc/gus-dur.jpg</item>
+        <item>https://i.postimg.cc/50LkcNbW/megawati.jpg</item>
+        <item>https://i.postimg.cc/9XPNJMLG/sby.png</item>
+        <item>https://i.postimg.cc/d3J6z25G/jkw.jpg</item>
+    </string-array>
+</resources>

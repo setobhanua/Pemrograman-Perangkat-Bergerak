@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="Hijau">#FFC0C0C0</color>
+    <color name="colorAzur">#FFFFFFFF</color>
+    <color name="backgrounddonasi">#FFFFFF</color>
+    <color name="colorPrimaryDark1">#00000F</color>
+</resources>
